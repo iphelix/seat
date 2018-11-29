@@ -1,0 +1,9 @@
+v.0.3 - Fixed segmentation error bug in Gtk2::SimpleList library
+      - Various performance enhancements (don't give up on failed queries)
+      - Updated report generation and looks
+      - Updated XML SE database with the latest signatures
+
+v.0.2 - Updated GUI Interface to include separate tabs
+      - Updated XML SE database with the latest signatures
+
+v.0.1 - Initial Release

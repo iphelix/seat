@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchEngineSignature>
+<signature>
+ <querystring>Greg intitle:credit card filetype:xls</querystring>
+ <textualDescription>This will get credit cards wtih name Greg looking for files with xls extension which stand for standard Excel documents</textualDescription>
+</signature>
+</searchEngineSignature>

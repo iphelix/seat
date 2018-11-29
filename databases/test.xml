@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchEngineSignature>
+<signature>
+ <querystring>hack</querystring>
+ <textualDescription>This is my amazingly long and useless description</textualDescription>
+</signature>
+<signature>
+ <querystring>hack the</querystring>
+ <textualDescription>This is my amazingly long and useless description</textualDescription>
+</signature>
+<signature>
+ <querystring>hack the planet</querystring>
+ <textualDescription>This is my amazingly long and useless description</textualDescription>
+</signature>
+</searchEngineSignature>

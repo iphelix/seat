@@ -1,0 +1,100 @@
+#!/usr/bin/perl -w
+#
+#   SEAT - next generation information digging application.
+#   For details:
+#   http://midnightresearch.com/projects/search-engine-assessment-tool/
+#
+#   Original Code: Peter Kacherginsky (iphelix)
+#   Contributors:
+#
+#   Copyright (C) 2007 Midnight Research Laboratories
+#
+#   THIS SOFTWARE IS PROVIDED "AS IS". NO WARRANTY IS ASSUMED.
+#   NO LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING
+#   FROM THE USE OF THIS SOFTWARE WILL BE ACCEPTED. IT CAN BURN
+#   YOUR HARD DISK, ERASE ALL YOUR DATA AND BREAK DOWN YOUR
+#   MICROWAVE OVEN. YOU ARE ADVISED.
+#
+#   seat is free software; you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation; either version 2 of the License, or
+#   (at your option) any later version.  For details see doc/LICENSE.
+package main;
+use strict;
+
+use lib "includes/";
+
+# Perl-GTK2 includes
+use Gtk2;
+Gtk2::Gdk::Threads->init;
+Gtk2->init;
+#use Gtk2 qw/-init -threads-init 1.050/;
+use Glib qw(TRUE FALSE);
+die "Glib::Object thread safety failed"
+	unless Glib::Object->set_threadsafe (TRUE);
+
+# SEAT includes
+use Preparation;
+use Execution;
+use Analysis;
+use Database;
+use Help;
+
+###############################################################################
+# User Interface Section
+
+# Standard window creation, placement, and signal connecting
+my $window = Gtk2::Window->new('toplevel');
+$window->signal_connect('delete_event' => sub {
+	Gtk2->main_quit;
+});
+
+$window->set_border_width(5);
+$window->set_position('center_always');
+$window->set_icon_from_file("images/Mrl.jpg");
+$window->set_size_request('800','600');
+$window->set_title("SEAT: Search Engine Assessment Tool");
+
+
+# Initialize SEAT data structures and pages
+my $database = Database->new;
+my $help = Help->new($window);
+my $tooltips = Gtk2::Tooltips->new;
+my $preparation = Preparation->new($database,$tooltips,$help);
+my $execution = Execution->new($database,$tooltips,$help);
+my $analysis = Analysis->new($database,$tooltips,$help,$preparation);
+
+# Perl-Gtk2 variables
+my $nb;
+
+# VBox container
+my $vbox = Gtk2::VBox->new(FALSE, 0);
+
+###############################################################################
+# Notebook container
+$nb = Gtk2::Notebook->new;
+$nb->set_scrollable(TRUE);
+$nb->popup_enable;
+$vbox->pack_start($nb,TRUE,TRUE,0);
+
+# Add Tabs to the Notebook container
+my $preparation_label = Gtk2::Label->new;
+$preparation_label->set_markup("<span><b>.:: Preparation ::.</b></span>");
+$preparation_label->set_size_request(210,);
+my $execution_label = Gtk2::Label->new;
+$execution_label->set_markup("<span><b>.:: Execution ::.</b></span>");
+$execution_label->set_size_request(300,);
+my $analysis_label = Gtk2::Label->new;
+$analysis_label->set_markup("<span><b>.:: Analysis ::.</b></span>");
+$analysis_label->set_size_request(210,);
+
+# Add Pages to the Notebook container
+$nb->append_page($preparation,$preparation_label);
+$nb->append_page($execution,$execution_label);
+$nb->append_page($analysis,$analysis_label);
+
+###############################################################################
+# Add and show the VBox
+$window->add($vbox);
+$window->show_all();
+Gtk2->main;

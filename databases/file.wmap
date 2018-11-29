@@ -1,0 +1,76 @@
+#--------------------------------#
+# [WMAP] file.db v1.3            #
+#--------------------------------#
+# Comments are made in a new     #
+# line begining with the # char. #
+#--------------------------------#
+# Do not leave empty lines.      #
+#--------------------------------#
+admin
+.admin
+.access
+.bash_history
+.cobalt
+.cobalt/siteUserMod/siteUserMod.cgi
+.DS_Store
+.FBCIndex
+.fhp
+.htaccess
+.htpasswd
+.nsconfig
+.passwd
+.perf
+.www_acl
+.wwwacl
+active.log
+admin.htm
+admin.html
+admin.php
+admin.php3
+admin.pl
+admin.sh
+admin.shtml
+claves
+claves.bak
+claves.txt
+config
+config.txt
+console.html
+global.asa
+global.bak
+global.txt
+handler
+import.txt
+log
+logs
+log.txt
+logs.txt
+pass
+passwd
+passwords
+passwords.bak
+passwords.tmp
+passwords.txt
+pruebas.txt
+prueba.txt
+sam
+sam.bin
+sam._
+sam.txt
+sam.bak
+stats.htm
+stats.html
+stats.txt
+stats.bak
+shadow
+users.txt
+usuarios.txt
+WS_FTP.LOG
+WS_FTP.INI
+ws_ftp.ini
+WS_FTP.ini
+#to much garbage so i put them in here
+doc/
+~root/
+~nobody/
+#The End.

@@ -1,0 +1,30 @@
+body {
+	background: #ddd;
+	font-size: 12px;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif
+}
+
+h1,h2,h3,h4 {
+	background: #0066aa;
+	color: #fff;
+	font-family: "Lucida Grande", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	padding: 4px;
+}
+
+b {
+	padding: 2px;
+}
+
+a {
+	font-size: 11px;
+	text-decoration: none;
+}
+
+a:hover {background-color:#aaa;}
+
+
+td {
+	margin-top: 10px;
+	border-top: solid 2px darkblue;
+	vertical-align: top;
+}
